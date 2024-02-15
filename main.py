@@ -124,7 +124,7 @@ if A.lower() == "yes":
         rolls = rolls + 1
         print("")
         print("")
-        print("")
+        print("")#test
         pngrid(grid)
         ready = input("ready for next number? Y/N ")
         while ready.lower() != "y":
